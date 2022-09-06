@@ -1,0 +1,65 @@
+[
+    {
+        "id": "001",
+        "title": "Tome of the Golden Sand",
+        "description": "Collection of spells that from the ancient Kingdom of Sand.",
+        "bg": "book1.png",
+        "version": "0.1",
+        "spells": [
+            {
+                "name": "Sand storm",
+                "activation": 3,
+                "story": "Sand storm happens frequently in the Kingdom of Sand, the ability to summon the sand storm grant the caster's army great advantages.",
+                "effects": "Target 2 friendly units within 6” get Poison next time they fight in melee."
+            },
+            {
+                "name": "Summon scarab swarm",
+                "activation": 3,
+                "story": "Scarab are hornoured by the ancients. Especially by the god of Death. ",
+                "effects": "Summon a unit of scarab swarm[3]. Must be placed within 3” from the caster and 6” away from enemy units."
+            }
+        ]
+    },
+    {
+        "id": "002",
+        "title": "Tome of the Great Nature",
+        "description": "Passed down since the birth of life, invoke the great power of the mother nature to aid you in your battle.",
+        "bg": "book5.png",
+        "version": "0.1",
+        "spells": [
+            {
+                "name": "Sand storm",
+                "activation": 3,
+                "story": "",
+                "effects": ""
+            },
+            {
+                "name": "Summon scarab swarm",
+                "activation": 3,
+                "story": "",
+                "effects": "Summon a unit of scarab swarm[3]. Must be placed within 3” from the caster and 6” away from enemy units. "
+            }
+        ]
+    },
+    {
+        "id": "003",
+        "title": "Tome of the Dark Arts",
+        "description": "Collection of spells that from the ancient kingdom of sand",
+        "bg": "book3.png",
+        "version": "0.1",
+        "spells": [
+            {
+                "name": "Sand storm",
+                "activation": 3,
+                "story": "",
+                "effects": ""
+            },
+            {
+                "name": "Summon scarab swarm",
+                "activation": 3,
+                "story": "",
+                "effects": "Summon a unit of scarab swarm[3]. Must be placed within 3” from the caster and 6” away from enemy units. "
+            }
+        ]
+    }
+]
